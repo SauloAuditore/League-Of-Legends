@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Parcel
+.parcel-cache/
+dist/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs
+.vscode/
